@@ -25,17 +25,18 @@ A nova versão segue a abordagem **Mobile First** — o layout base é construí
 ## Estrutura de arquivos
 aponteb/
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-└── assets/
-├── logoaponteb.png
-├── socios.png
-├── pilarverdade.png
-├── pilarproposito.png
-├── pilarresultado.png
-└── cliente-*.png / .jpg
+├──src/
+  ├── css/
+  │   └── style.css
+  ├── js/
+  │   └── script.js
+  └── img/
+    ├── logoaponteb.png
+    ├── socios.png
+    ├── clientes/
+    │  └── cliente-*.png / .jpg
+    ├── Pilares/
+    │  └── pilar-*.png
 
 ## Seções
 
