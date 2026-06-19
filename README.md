@@ -107,3 +107,8 @@ aponteb/
 Recife • Pernambuco  
 [@apontebconsultoria](https://instagram.com/apontebconsultoria)  
 [WhatsApp](https://wa.me/5581999646789)
+
+---
+
+## Desenvolvedor
+nicollassantos.dev@gmail.com
