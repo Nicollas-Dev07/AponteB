@@ -1036,12 +1036,13 @@ section {
 }
 
 .testimonial__quote::before {
-    content:       open-quote;
+    content:       "\201C";
     font-size:     3rem;
     line-height:   0;
     color:         var(--dourado);
     display:       block;
     margin-bottom: 14px;
+    font-family:   Georgia, 'Times New Roman', serif;
 }
 
 .testimonial__quote p {
