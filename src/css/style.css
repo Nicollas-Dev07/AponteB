@@ -829,6 +829,7 @@ section {
 }
 
 .service-card--featured {
+    margin-top: 11px;
     background: linear-gradient(135deg, var(--azul), var(--azul-2));
     color:      var(--branco);
 }
